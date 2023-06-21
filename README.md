@@ -5,9 +5,12 @@ A script that allows you to store your own custom scripts and any other! now wit
 ```lua
 getgenv().ToggleVisibility = "V"
 ```
-[+] Custom Command
+[+] Custom Command [Open]
 ```lua
 getgenv().ChatToOpen = "open" 
+```
+[+] Custom Command [Close]
+```lua
 getgenv().ChatToClose = "close"
 ```
 [+] Button Creation Function
