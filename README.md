@@ -38,23 +38,23 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Lvl9999/ScriptStorage
 getgenv().LoaderX(); -- [Main Loader]
 
 -------[[Create Buttons]]-----------------
-getgenv().CreateButton('Test 1', function();
+getgenv().CreateButton('Test 1', function()
     print("Test 1 clicked");
 end)
 
-getgenv().CreateButton('Test 2', function();
+getgenv().CreateButton('Test 2', function()
     print("Test 2 clicked");
 end)
 
-getgenv().CreateButton('Test 3', function();
+getgenv().CreateButton('Test 3', function()
     print("Test 3 clicked");
 end)
 
-getgenv().CreateButton('Test 4', function();
+getgenv().CreateButton('Test 4', function()
     print("Test 4 clicked");
 end)
 
-getgenv().CreateButton('Test 5', function();
+getgenv().CreateButton('Test 5', function()
     print("Test 5 clicked");
 end)
 ```
