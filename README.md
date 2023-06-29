@@ -1,5 +1,5 @@
 # Infinite Script Storage V2
-A script that allows you to store your own custom scripts and any other! now with pages instead of scroller
+A script that allows you to store your own custom scripts and any other!
 
 [+] Toggle Keybind
 ```lua
