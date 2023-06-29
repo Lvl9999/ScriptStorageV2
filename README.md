@@ -61,5 +61,5 @@ end)
 
 # Showcase:
 
-![image (4)](https://github.com/Lvl9999/ScriptStorageV2/assets/123672448/1e1b1e08-d5cf-4975-abcd-602ba9aa239c)
+![image](https://github.com/Lvl9999/ScriptStorageV2/assets/123672448/f1eaf279-7d94-49c6-8413-836ad4e61493)
 
