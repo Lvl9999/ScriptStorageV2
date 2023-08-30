@@ -3,10 +3,6 @@
         [Infinite Storage V2]
 
 --]]--------------------------------------
-Script = "Infinite Script Storage V2"
-Discord = "ThroughTheFireAndFlames#9925"
-Publisher = "XxxTheRealJirenXxx"
----------------------------------------------------------
 --[[ Missing Variables: [Make Sure to copy the variables]
 getgenv().ToggleVisibility = "V" -- Change if you want
 getgenv().ChatToOpen = "open" -- Chat in roblox "open" to show GUI
